@@ -18,8 +18,8 @@ class M102
 		System.out.println(s2);
 		*/
 
-		s1 = s1.substring(s1.lastIndexOl(' ') + 1) + " " + s1.substring(0, s1.lastIndexOl(' '));
-		System.out.println(s1);
+		/*s1 = s1.substring(s1.lastIndexOl(' ') + 1) + " " + s1.substring(0, s1.lastIndexOl(' '));
+		System.out.println(s1);*/
 	}
 }
 

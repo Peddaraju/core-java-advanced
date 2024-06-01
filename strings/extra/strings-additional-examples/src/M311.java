@@ -8,7 +8,7 @@ class M311
 		String s1 = "Hello"; 
 		System.out.println(s1.toCharArray().length);
 		System.out.println((s1 + "r").lastIndexOf('r'));
-		System.out.println((s1);
+		System.out.println(s1);
 	}
 }
 

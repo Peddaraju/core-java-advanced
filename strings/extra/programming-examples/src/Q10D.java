@@ -14,7 +14,7 @@ class Q10D
 		char c1 = sc.next().charAt(0);
 		//b
 		int count = 0;
-		int index = 0
+		int index = 0;
 		while((index = s1.indexOf(c1, index)) != -1)
 		{
 			count ++;

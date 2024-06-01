@@ -12,7 +12,7 @@ class T7A
 		try
 		{
 			double num1 = (Double) nf.parse(s1);
-			System.out.println(num1)
+			System.out.println(num1);
 		}
 		catch (ParseException ex)
 		{
